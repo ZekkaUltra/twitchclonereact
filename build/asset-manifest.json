@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/twitchclonereact/static/css/main.15bf71aa.chunk.css",
-    "main.js": "/twitchclonereact/static/js/main.0a1bd0fb.chunk.js",
-    "main.js.map": "/twitchclonereact/static/js/main.0a1bd0fb.chunk.js.map",
-    "runtime-main.js": "/twitchclonereact/static/js/runtime-main.f135a0cd.js",
-    "runtime-main.js.map": "/twitchclonereact/static/js/runtime-main.f135a0cd.js.map",
-    "static/js/2.d2d7c0a1.chunk.js": "/twitchclonereact/static/js/2.d2d7c0a1.chunk.js",
-    "static/js/2.d2d7c0a1.chunk.js.map": "/twitchclonereact/static/js/2.d2d7c0a1.chunk.js.map",
-    "index.html": "/twitchclonereact/index.html",
-    "precache-manifest.3317475c695b22123a39487d40d759dc.js": "/twitchclonereact/precache-manifest.3317475c695b22123a39487d40d759dc.js",
-    "service-worker.js": "/twitchclonereact/service-worker.js",
-    "static/css/main.15bf71aa.chunk.css.map": "/twitchclonereact/static/css/main.15bf71aa.chunk.css.map",
-    "static/media/Croix.svg": "/twitchclonereact/static/media/Croix.a55a5aa3.svg",
-    "static/media/IconeTwitch.svg": "/twitchclonereact/static/media/IconeTwitch.bea3cace.svg",
-    "static/media/MenuIco.svg": "/twitchclonereact/static/media/MenuIco.29c57c4d.svg",
-    "static/media/Search.svg": "/twitchclonereact/static/media/Search.862e4fe3.svg"
+    "main.css": "/static/css/main.15bf71aa.chunk.css",
+    "main.js": "/static/js/main.e978e40e.chunk.js",
+    "main.js.map": "/static/js/main.e978e40e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.02887672.js",
+    "runtime-main.js.map": "/static/js/runtime-main.02887672.js.map",
+    "static/js/2.d2d7c0a1.chunk.js": "/static/js/2.d2d7c0a1.chunk.js",
+    "static/js/2.d2d7c0a1.chunk.js.map": "/static/js/2.d2d7c0a1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a7fbcc0e5cdc35fe6ef2ea9940ea33ee.js": "/precache-manifest.a7fbcc0e5cdc35fe6ef2ea9940ea33ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.15bf71aa.chunk.css.map": "/static/css/main.15bf71aa.chunk.css.map",
+    "static/media/Croix.svg": "/static/media/Croix.a55a5aa3.svg",
+    "static/media/IconeTwitch.svg": "/static/media/IconeTwitch.bea3cace.svg",
+    "static/media/MenuIco.svg": "/static/media/MenuIco.29c57c4d.svg",
+    "static/media/Search.svg": "/static/media/Search.862e4fe3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f135a0cd.js",
+    "static/js/runtime-main.02887672.js",
     "static/js/2.d2d7c0a1.chunk.js",
     "static/css/main.15bf71aa.chunk.css",
-    "static/js/main.0a1bd0fb.chunk.js"
+    "static/js/main.e978e40e.chunk.js"
   ]
 }
